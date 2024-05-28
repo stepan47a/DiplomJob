@@ -1,2 +1,0 @@
-# DiplomJob
-My project 
